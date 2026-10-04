@@ -1,4 +1,4 @@
 #include<iostream>
 #include <cstdlib>
 int main(){
-std::system("dir");}
+std::system("dir");}// lab1

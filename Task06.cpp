@@ -5,4 +5,4 @@ int main(){
 if (user != nullptr)
 std::cout << "Current user is: "
 << user << "\n";
-}
+}// lab1

@@ -3,4 +3,4 @@
 int main(){
 FILE* file = fopen("ghost.txt", "r");
 if (file == nullptr)
-perror("Failed to open file");}
+perror("Failed to open file");}// lab1
